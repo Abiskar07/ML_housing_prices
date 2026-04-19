@@ -1,0 +1,9 @@
+# model files
+*.pkl
+*.joblib
+
+ml.py
+.venv
+__pycache__
+.vscode
+.ipynb_checkpoints
